@@ -2,7 +2,7 @@
 
 
 
-function Contact() {
+function AboutSection() {
     return(
         <>
         
@@ -10,4 +10,4 @@ function Contact() {
     )
 }
 
-export default Contact
+export default AboutSection

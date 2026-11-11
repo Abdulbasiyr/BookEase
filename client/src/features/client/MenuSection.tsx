@@ -2,7 +2,7 @@
 
 
 
-function Services() {
+function MenuSection() {
     return(
         <>
         
@@ -10,4 +10,4 @@ function Services() {
     )
 }
 
-export default Services
+export default MenuSection
