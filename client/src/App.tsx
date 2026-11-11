@@ -1,9 +1,8 @@
 
 import Header from "./features/client/Header"
-import Hero from "./features/client/Hero"
-import Services from "./features/client/Services"
-import About from "./features/client/About"
-import Contact from "./features/client/Contact"
+import HeroSection from "./features/client/HeroSection"
+import MenuSection from "./features/client/MenuSection"
+import AboutSection from "./features/client/AboutSection"
 
 
 function App() {
@@ -11,10 +10,9 @@ function App() {
   return (
     <>
       <Header />
-      <Hero />
-      <Services />
-      <About />
-      <Contact />
+      <HeroSection />
+      <MenuSection />
+      <AboutSection />
       <h1>Hello world</h1>
     </>
   )

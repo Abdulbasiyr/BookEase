@@ -2,7 +2,7 @@
 
 
 
-function About() {
+function HeroSection() {
     return(
         <>
         
@@ -10,4 +10,4 @@ function About() {
     )
 }
 
-export default About
+export default HeroSection
