@@ -4,9 +4,9 @@
 
 function MenuSection() {
     return(
-        <>
+        <section id="menu">
         
-        </>
+        </section>
     )
 }
 
